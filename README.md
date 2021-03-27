@@ -4,41 +4,31 @@
 
 Number and name of feature: **Deployment**
 
-Estimate of time needed to complete: _____
+Estimate of time needed to complete: 90 minutes
 
-Start time: _____
+Start time: 2pm
 
-Finish time: _____
+Finish time: 4pm
 
-Actual time needed to complete: _____
+Actual time needed to complete: 120 minutes
 
 Number and name of feature:  **Refactor the CSS**
 
-Estimate of time needed to complete: _____
+Estimate of time needed to complete: 30 minutes
 
-Start time: _____
+Start time: 7:30pm
 
-Finish time: _____
+Finish time: 8mp
 
-Actual time needed to complete: _____
+Actual time needed to complete: 30 minutes
 
 
 Number and name of feature:  **Modify the contents**
 
-Estimate of time needed to complete: _____
+Estimate of time needed to complete: 30 minute
 
-Start time: _____
+Start time: 8 pm
 
-Finish time: _____
+Finish time: 8:45 pm
 
-Actual time needed to complete: _____
-
-Number and name of feature: **Add functionality**
-
-Estimate of time needed to complete: _____
-
-Start time: _____
-
-Finish time: _____
-
-Actual time needed to complete: _____
+Actual time needed to complete: 45 minute
